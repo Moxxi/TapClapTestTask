@@ -1,5 +1,6 @@
 {
-    "debugMode"     : 1,
+    "showFPS" : false,
+    "debugMode"    : 0,
     "frameRate"     : 60,
     "id"            : "game",
     "renderMode"    : 2,
