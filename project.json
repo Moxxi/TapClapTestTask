@@ -1,0 +1,10 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "game",
+    "renderMode"    : 2,
+    "jsList"        : [
+        "src/Game.config.js",
+        "index.js"
+    ]
+} 
